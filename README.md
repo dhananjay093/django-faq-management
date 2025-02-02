@@ -12,3 +12,7 @@
 - Get Hindi FAQs: `GET /api/faqs/?lang=hi`
 - Get Bengali FAQs: `GET /api/faqs/?lang=bn`
 
+## Contributing
+- Follow PEP8 guidelines.
+- Write tests for new features.
+- 
